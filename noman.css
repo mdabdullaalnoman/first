@@ -1,0 +1,44 @@
+body{ font-family: 'Nanum Gothic', sans-serif;}
+
+.hilight{ font-family: monospace;
+font-weight: 700;
+color: lime;
+font-size: 50px;}
+
+.a-batton{
+    background-color: lime;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: whitesmoke;
+    font-weight: 900;
+    border-radius: 15px;}
+
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left:2% ;
+        padding-top: 100px;
+        height: 500px;
+        
+        
+    }
+    .half-width img{ width: 100%;}
+
+    .header{background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;}
+
+    section{ height: 800px;
+    padding-top: 200px;}
+    .down{ padding-top: 200px;}
+    .down2{padding-top: 200px;}
+    .biography{ background-image: url("personal-website/biography-bg.png");
+        background-repeat: no-repeat;}
+    
+        .third-width img{ width:30%;float:left;
+            padding-left: 3%;
+        }
+        .latest-work{background-image: url("personal-website/latest-work-bg.png");}
+        .middle{ text-align: center;
+        }
+  
